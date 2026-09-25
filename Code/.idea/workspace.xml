@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfa78427-fc8e-418f-9a5e-d2a7189cbf45" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="7" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="5.850469462694344E-160" />
+      <entry key="S2" value="1.6793026266076716E-40" />
+      <entry key="S5" value="1.7678996663621838E-16" />
+      <entry key="S10" value="2.7899872954917708E-8" />
+      <entry key="S30" value="0.013798376212197696" />
+      <entry key="S60" value="0.3999679956811661" />
+      <entry key="M2" value="2.1816584878559353" />
+      <entry key="M5" value="6.061710811970662" />
+      <entry key="M10" value="8.527417468233924" />
+      <entry key="M15" value="9.555566442817847" />
+      <entry key="M30" value="10.708065597229442" />
+      <entry key="H1" value="11.335591380771373" />
+      <entry key="H2" value="11.663052388885145" />
+      <entry key="H4" value="11.830323330241288" />
+      <entry key="D1" value="11.971552024385216" />
+      <entry key="W1" value="11.995931856947305" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000163110894051" />
+      <entry key="S2" value="1.0895540442679197" />
+      <entry key="S5" value="1.565071293682802" />
+      <entry key="S10" value="2.0591323406805713" />
+      <entry key="S30" value="2.6370687185682664" />
+      <entry key="S60" value="2.9405832162471883" />
+      <entry key="M2" value="3.27386516574415" />
+      <entry key="M5" value="3.6351799928814867" />
+      <entry key="M10" value="3.801813511320851" />
+      <entry key="M15" value="3.864063795309102" />
+      <entry key="M30" value="3.930043114167297" />
+      <entry key="H1" value="3.9645081896871397" />
+      <entry key="H2" value="3.982123673688431" />
+      <entry key="H4" value="3.9910289679369413" />
+      <entry key="D1" value="3.998500240314036" />
+      <entry key="W1" value="3.9997856359698307" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.454492501221813E-8" />
+      <entry key="MS500" value="0.030062170692837235" />
+      <entry key="S2" value="0.46813311656236406" />
+      <entry key="S5" value="1.1567808278602258" />
+      <entry key="S10" value="1.7864499728783303" />
+      <entry key="S30" value="2.533791997294079" />
+      <entry key="S60" value="3.2696911293946433" />
+      <entry key="M2" value="5.402105643383688" />
+      <entry key="M5" value="9.660960098126367" />
+      <entry key="M10" value="12.306708194024395" />
+      <entry key="M15" value="13.40335220560621" />
+      <entry key="M30" value="14.6292628170322" />
+      <entry key="H1" value="15.295484337591626" />
+      <entry key="H2" value="15.642818294644009" />
+      <entry key="H4" value="15.82016060746988" />
+      <entry key="D1" value="15.969851847622424" />
+      <entry key="W1" value="15.995688817470562" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Jneu0XSRA4TpgPsTkeAJKJ1snH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Bai1.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/PythonN03K18/Code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Bai1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (pythonProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bai1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.8665.369" />
+        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa78427-fc8e-418f-9a5e-d2a7189cbf45" name="Changes" comment="" />
+      <created>1728003833330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728003833330</updated>
+      <workItem from="1728003834431" duration="2078000" />
+      <workItem from="1790301481336" duration="709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Code$Bai1.coverage" NAME="Bai1 Coverage Results" MODIFIED="1790302192412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
