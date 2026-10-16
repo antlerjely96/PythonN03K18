@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfa78427-fc8e-418f-9a5e-d2a7189cbf45" name="Changes" comment="" />
+    <list default="true" id="dfa78427-fc8e-418f-9a5e-d2a7189cbf45" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lý thuyết/~$ndition.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lý thuyết/~WRL3349.tmp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +18,9 @@
   <component name="EmbeddingIndexingInfo">
     <option name="cachedIndexableFilesCount" value="12" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -77,10 +85,10 @@
       <entry key="W1" value="15.995688817470562" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Jneu0XSRA4TpgPsTkeAJKJ1snH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -92,9 +100,11 @@
     "Python.Bai1.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "D:/PythonN03K18/Code",
@@ -152,6 +162,7 @@
       <updated>1728003833330</updated>
       <workItem from="1728003834431" duration="2078000" />
       <workItem from="1790301481336" duration="3814000" />
+      <workItem from="1791856985146" duration="386000" />
     </task>
     <servers />
   </component>
